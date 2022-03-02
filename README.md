@@ -1,2 +1,2 @@
-# 3DVR-Homework
-HW
+# 3DVR
+Immersive game

@@ -1,0 +1,17 @@
+Version Control:
+Distributed Version Control Architecture on Git.
+One master/main branch and 5 sub branches.
+Branch1: Front end Developer
+Branch 2: Backend Developer
+Branch 3: 3D Developer
+Branch 4: Dev ops
+Branch 5: Software Tester and QA
+These branches should be created on the day when the project is setup on Git
+These branches should be pushed when release date is near
+Push on the release date
+Git commands:
+git clone
+git checkout/b/branchname
+git add .
+git commit-m “message”
+git push

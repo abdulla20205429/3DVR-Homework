@@ -1,0 +1,20 @@
+User Stories:
+Summary: A user story is an informal, general explanation of a software feature written from the perspective of the end user. Its purpose is to articulate how a software feature will provide value to the customer.
+1.	As Boss, I want to invite my staff to my virtual space, so we can attend meeting.
+2.	As Employee, I want to invite my colleagues to present my work.
+3.	As a game user I invite my friends to my Virtual private room for a game.
+4.	As a shopkeeper I invite my customers to my online shop for selling my products.
+5.	As a Trainer I like to invite my students to my virtual class room to teach them.
+6.	As Sascha, I want to organize my work, so I can feel more in control. 
+7.	As a manager, I want to be able to understand my colleagues progress, so I can better report our success and failures. 
+8.	As a database administrator, I want to automatically merge datasets from different sources so that I can more easily create reports for my internal customers.
+9.	As a brand manager, I want to get alerts whenever a reseller advertises our products below agreed-upon prices so that I can quickly take action to protect our brand.
+10.	As the leader of a remote team, I want our team-messaging app to include file sharing and annotation so that my team can collaborate in real-time and keep an archive of their work in a single place.
+Use Cases:
+1.	Shopping
+Running an online store on Virtual Reality
+2.	Teaching
+VR-based smart learning environment for teaching and Learning
+3.	Gaming
+360° and 6DoF video streaming Interactive gaming Telepresence/Tactile VR
+UML Diagram
